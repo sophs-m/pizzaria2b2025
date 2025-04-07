@@ -51,6 +51,8 @@ function App(){
 <Formulario titulo = "E-mail" mensagem = "Insira seu E-mail"/>
 <Formulario titulo = "CPF" mensagem = "Insira seu CPF"/>
 <Formulario/>
+<Formulario/>
+<Formulario/>
  
     </div>
 
